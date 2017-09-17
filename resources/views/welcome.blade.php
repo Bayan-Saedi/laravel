@@ -6,15 +6,7 @@
 </head>
 <body>
     
-        {{-- <ul>
-          @foreach ($products as $product)
-            <li>
-              <a href="/?year={{ $product->academicYears->name }}&branch={{ $product->academicBranches->name }}">
-            {{ $product->academicyears->name }} {{ $product->academicBranches->name }}
-          </a>
-            </li>
-          @endforeach
-        </ul> --}}
+        <h1>This is laravel 5.5</h1>
     
 </body>
 </html>
